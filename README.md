@@ -1,5 +1,4 @@
-//# Wolf
-//This is a code home!
+
 import java.util.*;
 public class Main {
 
